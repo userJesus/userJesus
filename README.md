@@ -87,11 +87,20 @@ eu.dar_oi()
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Troféus
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=userJesus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="troféus"/>
+![Pythonista](https://img.shields.io/badge/🐍_Pythonista-FFD43B?style=for-the-badge&labelColor=306998&color=FFD43B)
+![API Builder](https://img.shields.io/badge/🚀_Criador_de_APIs-009688?style=for-the-badge&labelColor=1a1a2e)
+![AI Explorer](https://img.shields.io/badge/🤖_Explorador_de_IA-412991?style=for-the-badge&labelColor=1a1a2e)
+![Docker User](https://img.shields.io/badge/🐳_Containerizador-2496ED?style=for-the-badge&labelColor=1a1a2e)
+![Web Scraper](https://img.shields.io/badge/🕷️_Web_Scraper-43B02A?style=for-the-badge&labelColor=1a1a2e)
+![Audio Wizard](https://img.shields.io/badge/🎙️_Mago_do_Áudio-000000?style=for-the-badge&labelColor=1a1a2e)
+![Cloud Native](https://img.shields.io/badge/☁️_Cloud_Native-FF9900?style=for-the-badge&labelColor=1a1a2e)
+![Open Source](https://img.shields.io/badge/💜_Open_Source-8b5cf6?style=for-the-badge&labelColor=1a1a2e)
+![Night Coder](https://img.shields.io/badge/🌙_Coder_Noturno-1a1a2e?style=for-the-badge&labelColor=8b5cf6)
+![Coffee Powered](https://img.shields.io/badge/☕_Movido_a_Café-6F4E37?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
