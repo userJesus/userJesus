@@ -130,17 +130,17 @@ eu.dar_oi()
 
 <div align="center">
 
-<a href="https://github.com/userJesus/youtube-scraper-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=youtube-scraper-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
+<a href="https://github.com/userJesus/sprint-generator-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=sprint-generator-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
 </a>
-<a href="https://github.com/userJesus/whisper-transcription-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=whisper-transcription-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
+<a href="https://github.com/userJesus/ronin-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=ronin-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
 </a>
-<a href="https://github.com/userJesus/chat-api-dockploy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=chat-api-dockploy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
+<a href="https://github.com/userJesus/iso-miko">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=iso-miko&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
 </a>
-<a href="https://github.com/userJesus/api_bd_yt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=api_bd_yt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
+<a href="https://github.com/userJesus/ghost">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=userJesus&repo=ghost&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&locale=pt-br" />
 </a>
 
 </div>
